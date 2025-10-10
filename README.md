@@ -2,10 +2,7 @@
   <img src="images/Let&apos;sCODE.gif" width="250" style="margin-bottom:-50px;">
 </div>
 
-<div style="display: flex; align-items: center; gap: 8px;">
-<img src="images/Hello.gif" width="30">
-  <p style="font-size: 24px; margin-bottom: 0; font-weight: bold;">Hello, My name is Simakixi</p>
-</div>
+<p style="margin-bottom: 0"><img src="images/Hello.gif" width="30"> <strong style="font-size: 24px;">Hello, My name is Simakixi</strong></p>
 <img src="images/LINE.gif">
 <p style="font-size: 20px;">This is my profile!</p>
 
