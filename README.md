@@ -85,7 +85,7 @@
 <img src="images/LINE.gif" style="margin-bottom: -20px;">
 <h3><span style="color: red;">🔸</span>基本情報技術者</h3>
 
-<div style="display: flex; align-items: center; gap: 8px;>
+<div style="display: flex; align-items: center; gap: 8px;">
 <img src="images/Link.gif" width="30">
   <p style="font-size: 24px; margin-bottom: 0; font-weight: bold;">Links</p>
 </div>
