@@ -1,16 +1,11 @@
 <div align="center">
-  <img src="images/Let&apos;sCODE.gif" width="250" style="margin-bottom:-50px;">
+  <img src="images/Let&apos;sCODE.gif" width="250">
 </div>
 
-<p><img src="images/Hello.gif" width="30"> <font size="6"><strong>Hello, My name is Simakixi</strong></font></p>
-<img src="images/LINE.gif">
-<p><font size="5">This is my profile!</font></p>
+# <img src="images/Hello.gif" width="30"> Hello, My name is Simakixi
+### This is my profile!
 
-<div style="display: flex; align-items: center; gap: 8px;">
-<img src="images/猫タイピング.gif" width="30">
-<p style="font-size: 24px; margin-bottom: 0; font-weight: bold;">Status</p>
-</div>
-<img src="images/LINE.gif">
+# <img src="images/猫タイピング.gif" width="30"> Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
