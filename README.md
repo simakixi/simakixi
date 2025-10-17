@@ -2,9 +2,9 @@
   <img src="images/Let&apos;sCODE.gif" width="250" style="margin-bottom:-50px;">
 </div>
 
-<p style="margin-bottom: 0"><img src="images/Hello.gif" width="30"> <strong style="font-size: 24px;">Hello, My name is Simakixi</strong></p>
+<p><img src="images/Hello.gif" width="30"> <font size="6"><strong>Hello, My name is Simakixi</strong></font></p>
 <img src="images/LINE.gif">
-<p style="font-size: 20px;">This is my profile!</p>
+<p><font size="5">This is my profile!</font></p>
 
 <div style="display: flex; align-items: center; gap: 8px;">
 <img src="images/猫タイピング.gif" width="30">
