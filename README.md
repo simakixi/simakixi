@@ -10,11 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<div style="display: flex; align-items: center; gap: 8px;">
-<img src="images/skills.gif" width="30">
-<p style="font-size: 24px; margin-bottom: 0; font-weight: bold;">Tech Stack</p>
-</div>
-<img src="images/LINE.gif">
+# <img src="images/skills.gif" width="30"> Tech Stack
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -51,37 +47,21 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: -20px;">
-<img src="images/Project.gif" width="30">
-  <p style="font-size: 24px; margin-bottom: 0; font-weight: bold;">Projects</p>
-</div>
-<img src="images/LINE.gif" style="margin-bottom: -20px;">
+# <img src="images/Project.gif" width="30"> Projects
 
 ### 🔸 [iwasakiPosSystem](https://github.com/kurappy-14/iwasakiPosSystem)
 - 学園祭などの小規模な物販で販売時点管理をするシステム
 - 在庫管理、売上追跡、電子決済導入などの機能
 - 使用技術: HTML, CSS, JavaScript, PHP, Docker
 
-<div style="display: flex; align-items: center; gap: 8px;">
-<img src="images/Trophies.gif" width="30">
-  <p style="font-size: 24px; margin-bottom: 0; font-weight: bold;">Trophies</p>
-</div>
-<img src="images/LINE.gif">
+# <img src="images/Trophies.gif" width="30"> Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=simakixi)](https://github.com/simakixi/github-profile-trophy)
 
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: -20px;">
-<img src="images/fire.png" width="30">
-  <p style="font-size: 24px; margin-bottom: 0; font-weight: bold;">Certifications</p>
-</div>
-<img src="images/LINE.gif" style="margin-bottom: -20px;">
-<h3><span style="color: red;">🔸</span>基本情報技術者</h3>
+# <img src="images/fire.png" width="30"> Certifications
+### <span style="color: red;">🔸</span>基本情報技術者
 
-<div style="display: flex; align-items: center; gap: 8px;">
-<img src="images/Link.gif" width="30">
-  <p style="font-size: 24px; margin-bottom: 0; font-weight: bold;">Links</p>
-</div>
-<img src="images/LINE.gif">
+# <img src="images/Link.gif" width="30"> Links
 
 <div style="display: flex; align-items: center; gap: 8px;">
   <a href="https://github.com/simakixi" target="_blank" rel="noopener noreferrer">
