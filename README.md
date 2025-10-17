@@ -7,8 +7,8 @@
 
 # <img src="images/猫タイピング.gif" width="30"> Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simakixi&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simakixi&show_icons=true&theme=radical)
 
 # <img src="images/skills.gif" width="30"> Tech Stack
 <p align="left">
