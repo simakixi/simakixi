@@ -60,6 +60,7 @@
 
 # <img src="images/fire.png" width="30"> Certifications
 ### <span style="color: red;">🔸</span>基本情報技術者
+### <span style="color: red;">🔸</span>AWS Certified Cloud Practitioner
 
 # <img src="images/Link.gif" width="30"> Links
 
