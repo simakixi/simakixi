@@ -58,7 +58,6 @@
 - CTF用に作成したゲームです
 
 # <img src="images/Trophies.gif" width="30"> Activities
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simakixi&theme=radical)
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simakixi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # <img src="images/fire.png" width="30"> Certifications
@@ -68,10 +67,10 @@
 # <img src="images/Link.gif" width="30"> Links
 
 <div style="display: flex; align-items: center; gap: 8px;">
-  <a href="https://github.com/simakixi" target="_blank" rel="noopener noreferrer">
-    <img src="images/github.png" alt="github" width="100" />
-  </a>
   <a href="https://qiita.com/simakixi" target="_blank">
     <img src="images/qiita.png" alt="github" width="100" />
+  </a>
+  <a href="https://zenn.dev/simakixi" target="_blank">
+    <img src="images/Zenn.jpg" alt="github" width="100" />
   </a>
 </div>
