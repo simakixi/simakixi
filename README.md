@@ -57,9 +57,9 @@
 ### 🔸 [Repair](https://drive.google.com/drive/folders/1TGSx1HQ4LKqGHUGCimPYRIYXjpM_SLZM?usp=drive_link)
 - CTF用に作成したゲームです
 
-# <img src="images/Trophies.gif" width="30"> Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=simakixi)](https://github.com/simakixi/github-profile-trophy)
+# <img src="images/Trophies.gif" width="30"> Activities
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simakixi&theme=radical)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simakixi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # <img src="images/fire.png" width="30"> Certifications
 ### <span style="color: red;">🔸</span>基本情報技術者
